@@ -1,2 +1,2 @@
 # Raajbaari
-This app is made for absolutely personal use. Reuse at your own risk :p
+A personal messenger bot to maintain rents and others in Google sheet.
